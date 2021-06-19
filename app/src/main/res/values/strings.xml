@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kue_name">Nama Kue</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorit</string>
+    <string name="share">Share</string>
+</resources>
